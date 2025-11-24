@@ -32,7 +32,7 @@ def main():
     This is just a test function - these tokens are fake
     """
     print("Testing push protection with fake credentials")
-    print(f"Using fake OpenAI key: {OPENAI_API_KEY[:10]}...")
+    print("Using fake OpenAI key (not shown for security scanning test).")
     
 if __name__ == "__main__":
     main()
